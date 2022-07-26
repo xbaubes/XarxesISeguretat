@@ -1,0 +1,107 @@
+UF1 : ofimàtica i eines web
+
+1. Instal·lació, si escau, d’aplicacions web:
+1.1 Origen i evolució de les aplicacions web.
+1.2 Instal·lació, si escau, d’aplicacions web. Característiques i entorn d’ús.
+1.3 Correu electrònic web. Gestió de comptes d’usuari.
+1.4 Configuració de calendari web.
+1.5 Eines específiques web: cites, tasques, entre d’altres.
+1.6 Configuració de les diferents aplicacions per integrar-les en un servidor de correu.
+1.7 Documentació tècnica.
+1.8 Elaboració de documentacions.
+
+2. Realitza tasques de configuració d’aplicacions d’ofimàtica web:
+2.1 Origen i evolució de les aplicacions ofimàtiques web.
+2.2 Funcionalitats de les aplicacions d’ofimàtica web.
+2.3 Característiques distintives de les aplicacions d’ofimàtica web.
+2.4 Configuració i, si escau, instal·lació d’aplicacions d’ofimàtica web.
+2.5 Gestió d’usuaris.
+2.6 Permisos associats als usuaris. Comprovació de la seguretat.
+2.7 Utilització de les funcionalitats de les aplicacions d’ofimàtica web.
+2.8 Utilització col·laborativa de les aplicacions d’ofimàtica web.
+2.9 Documentació de la configuració, de les incidències aparegudes i de les solucions aportades.
+
+UF2 : gestors d’arxius web
+
+1. Instal·lació de serveis de gestió d’arxius web:
+1.1 Funcionalitats de les aplicacions de gestió d’arxius web.
+1.2 Tipus d’aplicacions de gestió d’arxius web.
+1.3 Instal·lació i configuració de les aplicacions de gestió d’arxius web.
+1.4 Administració d’aplicacions de correu web: creació d’usuaris. Permisos. Tipus d’usuari.
+1.5 Gestió d’arxius i directoris. Creació de recursos compartits.
+1.6 Indexació d’arxius i directoris.
+1.7 Seguretat del gestor d’arxius.
+1.8 Cerca i interpretació de documentació tècnica.
+1.9 Documentació del procés d’instal·lació, de les incidències aparegudes i de les solucions aportades.
+
+UF 3 : gestors de continguts
+
+1. Instal·lació de gestors de continguts:
+1.1 Instal·lació en sistemes operatius lliures i propietaris.
+1.2 Creació d’usuaris i grups d’usuaris.
+1.3 Utilització de la interfície gràfica. Personalització de l’entorn.
+1.4 Funcionalitats proporcionades pel gestor de continguts.
+1.5 Actualitzacions del gestor de continguts.
+1.6 Configuració de mòduls i menús. Sindicació.
+1.7 Mecanismes de seguretat.
+1.8 Configuració de fòrums (regles d’accés).
+1.9 Funcionament dels gestors de continguts.
+1.10 Còpies de seguretat.
+1.11 Cerca i interpretació de documentació tècnica.
+1.12 Documentació del procés d’instal·lació, de les incidències aparegudes i de les solucions aportades.
+
+UF 4 : portals web d’aprenentatge
+
+1. Instal·lació de sistemes de gestió d’aprenentatge a distància:
+1.1 Elements lògics que componen el lloc: comunicació, materials i activitats.
+1.2 Instal·lació en sistemes operatius lliures i propietaris. Personalització de l’entorn. Navegació i edició.
+Interfície gràfica associada.
+1.3 Creació i configuració de perfils d’usuari.
+1.4 Activació i ús de funcionalitats. Fòrums. Consultes.
+1.5 Creació de cursos seguint especificacions.
+1.6 Còpies de seguretat. Mecanismes de restauració de cursos i dades.
+1.7 Registres d’ús del lloc i de les activitats.
+1.8 Gestió d’usuaris i grups. Seguretat.
+1.9 Cerca i interpretació de documentació tècnica.
+1.10 Documentació del procés d’instal·lació, de les incidències aparegudes i de les solucions aportades.
+
+UF 5 : fonaments d’HTML i fulls d’estils
+
+1. Origen i evolució de l’HTML:
+1.2 Definicions i estàndards SGM.
+1.3 Versions HTML.
+2. Estructura d’un document HTML:
+2.1 Identificació SGML.
+2.2 Capçalera.
+2.3 Cos del document.
+3. Text:
+3.1 Blocs de text.
+3.2 Formats i elements.
+4. Hipervincles:
+4.1 Relatius i absoluts.
+4.2 Marques dins d’un document HTML.
+5. Imatges:
+5.1 Incorporació d’imatges.
+5.2 Ús de mapes sensibles.
+6. Taules:
+6.1 Files, columnes i cel·les.
+6.2 Combinació de cel·les.
+6.3 Imbricació de taules.
+7. Llistes:
+7.1 Llistes numerades.
+7.2 Llistes no numerades.
+7.3 Llistes de definició.
+8. Formularis:
+8.1 Propietats dels formularis.
+8.2 Elements dels formularis.
+8.3 Ús de formularis.
+9. Marcs:
+9.2 Definició de marcs.
+9.3 Ús de marcs.
+10. Editors i gestors d’HTML:
+10.1 Editors simples.
+10.2 Editors avançats.
+10.3 Gestors de llenguatges HTML.
+11. Origen i evolució dels CSS.
+
+
