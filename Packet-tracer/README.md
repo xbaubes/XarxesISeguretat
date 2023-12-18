@@ -1,0 +1,21 @@
+### Ordre recomanat per impartir el material
+
+  - **tutorial.pdf**
+    - topology + switch + ARP + hub + ipconfig + ping + broadcast
+  - **switch.pdf**
+    - switch commands + telnet
+  - **DHCP-server.pdf**
+    - vlan + DHCP server
+  - **DHCP-router.pdf**
+    - DHCP router + subnetting
+  - **static-routing.pdf**
+    - static routing
+  - **dynamic-routing.pdf**
+    - RIPv2
+  - **router-wifi.pdf**
+    - router wi-fi
+  - **complete-design.pdf**
+    - networking design
+  - **incidencies.pdf**
+    - tracert + netstat + nslookup + route
+---
