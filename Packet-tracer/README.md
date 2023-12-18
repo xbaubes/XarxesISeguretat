@@ -8,12 +8,12 @@
     - vlan + DHCP server
   - **DHCP-router.pdf**
     - DHCP router + subnetting
+  - **router-wifi.pdf**
+    - router wi-fi
   - **static-routing.pdf**
     - static routing
   - **dynamic-routing.pdf**
     - RIPv2
-  - **router-wifi.pdf**
-    - router wi-fi
   - **complete-design.pdf**
     - networking design
   - **incidencies.pdf**
