@@ -16,7 +16,7 @@ En aquesta carpeta hi trobaràs la documentació necessària per entendre el fun
 
 ### Material adequat pels següents cicles formatius i mòduls professionals
 
-  - **Informàtica d’oficina** (CFPB IC10)  
+  - **Informàtica d’oficina** (CFPB)  
      - MP9. Instal·lació i manteniment de xarxes per a transmissió de dades
   - **Sistemes Microinformàtics i Xarxes** (CFGM SMX)  
      - MP5. Xarxes locals
