@@ -22,3 +22,5 @@ En aquesta carpeta hi trobaràs la documentació necessària per entendre el fun
      - MP9. Instal·lació i manteniment de xarxes per a transmissió de dades
   - **Sistemes Microinformàtics i Xarxes** (CFGM SMX)  
      - MP5. Xarxes locals
+  - **Administració de Xarxes i Sistemes Operatius** (CFGS ASIX)  
+     - MP7. Planificació i administració de xarxes
