@@ -5,11 +5,11 @@
   - **switch.pdf**
     - switch commands + telnet
   - **DHCP-server.pdf**
-    - vlan + DHCP server
+    - VLAN + DHCP server
   - **DHCP-router.pdf**
     - DHCP router + subnetting
   - **router-wifi.pdf**
-    - router wi-fi
+    - router Wi-Fi
   - **static-routing.pdf**
     - static routing
   - **dynamic-routing.pdf**
