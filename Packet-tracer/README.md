@@ -18,4 +18,6 @@
     - networking design
   - **incidencies.pdf**
     - tracert + netstat + nslookup + route
+  - **firewall-DMZ.pdf**
+	- firewall + DMZ + ACL + security policy
 ---
